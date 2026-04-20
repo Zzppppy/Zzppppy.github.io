@@ -21,7 +21,7 @@ I am an incoming Ph.D. student at Shanghai Jiao Tong University, advised by [Pro
 
 Previously, I was an undergraduate student at Wuhan University, where I worked with [Prof. Yansheng Li](https://jszy.whu.edu.cn/liyansheng/zh_CN/index.htm).
 
-My research interests include **Fundamental Vision** and **Multimodal Large Language Models / Unified Fundation Models**.
+My research interests include **Fundamental Vision** and **Multimodal Learning**.
 
 
 # 🔥 News
@@ -29,7 +29,7 @@ My research interests include **Fundamental Vision** and **Multimodal Large Lang
 - *2025.05*: &nbsp;🎉🎉 One paper related to object detection (PointOBB-v3) is accepted by **IJCV**！
 - *2025.09*: &nbsp;🎉🎉 One paper related to unified model (RISEBench) is accepted by **NeurIPS DB Track oral _<mark>(Top 0.35%)</mark>_**！
 - *2026.02*: &nbsp;🎉🎉 One paper related to object detection (PWOOD) is accepted by **CVPR**!
-- *2026.03*: &nbsp;🎉🎉 One paper related to reward model (FIRM) is now available on [arXiv](https://arxiv.org/pdf/2603.12247).
+- *2026.03*: &nbsp;🎉🎉 One paper related to reward model (FIRM) is now available on arXiv.
 
 
 # 📝 Publications 
