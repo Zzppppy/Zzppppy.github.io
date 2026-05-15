@@ -33,7 +33,7 @@ My research interests include **Fundamental Vision** and **Multimodal Learning**
 
 
 # 📝 Publications 
-## 🔑 Multimodal Large Language Model
+## 🔑 Multimodal Learning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Oral</div><img src='images/risebench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,7 +52,7 @@ This paper proposes RISEBench, the first benchmark for reasoning-informed visual
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/firm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/firm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation](https://arxiv.org/pdf/2603.12247)
@@ -70,7 +70,7 @@ The FIRM framework builds strong reward models from large-scale high-quality dat
 </div>
 
 
-## 🔑 Object Detection
+## 🔑 Fundamental Vision
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/point2rbox-v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
