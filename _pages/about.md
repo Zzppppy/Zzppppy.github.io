@@ -27,9 +27,9 @@ My research interests include **Fundamental Vision** and **Multimodal Learning**
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One paper related to object detection (Point2RBox-v2) is accepted by **CVPR**！
 - *2025.05*: &nbsp;🎉🎉 One paper related to object detection (PointOBB-v3) is accepted by **IJCV**！
-- *2025.09*: &nbsp;🎉🎉 One paper related to unified model (RISEBench) is accepted by **NeurIPS DB Track oral _<mark>(Top 0.35%)</mark>_**！
+- *2025.09*: &nbsp;🎉🎉 One paper related to multimodal generation (RISEBench) is accepted by **NeurIPS DB Track oral _<mark>(Top 0.35%)</mark>_**！
 - *2026.02*: &nbsp;🎉🎉 One paper related to object detection (PWOOD) is accepted by **CVPR**!
-- *2026.03*: &nbsp;🎉🎉 One paper related to reward model (FIRM) is now available on arXiv.
+- *2026.03*: &nbsp;🎉🎉 One paper related to multimodal generation (FIRM) is now available on arXiv.
 
 
 # 📝 Publications 
