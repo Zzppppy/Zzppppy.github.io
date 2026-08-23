@@ -19,10 +19,9 @@ redirect_from:
 
 I am a Ph.D. student at Shanghai Jiao Tong University, advised by [Prof. Xue Yang](https://yangxue.site/) and [Prof. Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=en).
 
-Previously, I was an undergraduate student at Wuhan University, where I worked with [Prof. Yansheng Li](https://jszy.whu.edu.cn/liyansheng/zh_CN/index.htm).
+My research focuses on **Multimodal Learning**, particularly **Multimodal Generation and Evaluation**, with a growing interest in **Multimodal Agents and Embodied Intelligence**.
 
-My research interests include **Fundamental Vision** and **Multimodal Learning**.
-
+**Contact:** [peiyuanzhang@sjtu.edu.cn](mailto:peiyuanzhang@sjtu.edu.cn)
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One paper related to object detection (Point2RBox-v2) is accepted by **CVPR**！
@@ -137,7 +136,9 @@ This paper proposes PWOOD, a cost-effective framework for oriented object detect
 - **……**
 
 # 🎓 Educations
-- *2022.09 - now*, Wuhan University, School of Computer Science. 
+- *2026.09 - Present*, Ph.D. Student, School of Automation and Intelligent Sensing, Shanghai Jiao Tong University
+
+- *2022.09 - 2026.06*, B.S., School of Computer Science, Wuhan University
 
 # 💬 Invited Talks
 - Not yet — but my GPU has heard plenty of my research talks. 
