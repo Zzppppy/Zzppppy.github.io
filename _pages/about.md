@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student at **Shanghai Jiao Tong University**, advised by [Prof. Xue Yang](https://yangxue.site/) and [Prof. Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=en).
 
-- **Research Interests:** Multimodal Learning, Multimodal Generation and Evaluation, Multimodal Agents, and Embodied Intelligence
+- **Research Interests:** Computer Vision, Multimodal Learning, Multimodal Generation and Evaluation, and Embodied Intelligence
 - **Contact:** [peiyuanzhang@sjtu.edu.cn](mailto:peiyuanzhang@sjtu.edu.cn) · [peiyuanzhangwhu@whu.edu.cn](mailto:peiyuanzhangwhu@whu.edu.cn)
 
 # 🔥 News
