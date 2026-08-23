@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span> 
 
-I am a Ph.D. student at Shanghai Jiao Tong University, advised by [Prof. Xue Yang](https://yangxue.site/) and [Prof. Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=en).
+I am a Ph.D. student at **Shanghai Jiao Tong University**, advised by [Prof. Xue Yang](https://yangxue.site/) and [Prof. Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=en).
 
-My research focuses on **Multimodal Learning**, particularly **Multimodal Generation and Evaluation**, with a growing interest in **Multimodal Agents and Embodied Intelligence**.
-
-**Contact:** [peiyuanzhang@sjtu.edu.cn](mailto:peiyuanzhang@sjtu.edu.cn)
+- **Research Interests:** Multimodal Learning, Multimodal Generation and Evaluation, Multimodal Agents, and Embodied Intelligence
+- **Contact:** [peiyuanzhang@sjtu.edu.cn](mailto:peiyuanzhang@sjtu.edu.cn)
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 One paper related to object detection (Point2RBox-v2) is accepted by **CVPR**！
