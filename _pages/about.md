@@ -23,11 +23,11 @@ I am a Ph.D. student at **Shanghai Jiao Tong University**, advised by [Prof. Xue
 - **Contact:** [peiyuanzhang@sjtu.edu.cn](mailto:peiyuanzhang@sjtu.edu.cn) · [peiyuanzhangwhu@whu.edu.cn](mailto:peiyuanzhangwhu@whu.edu.cn)
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper related to object detection (Point2RBox-v2) is accepted by **CVPR**！
-- *2025.05*: &nbsp;🎉🎉 One paper related to object detection (PointOBB-v3) is accepted by **IJCV**！
-- *2025.09*: &nbsp;🎉🎉 One paper related to multimodal generation (RISEBench) is accepted by **NeurIPS DB Track oral _<mark>(Top 0.35%)</mark>_**！
-- *2026.02*: &nbsp;🎉🎉 One paper related to object detection (PWOOD) is accepted by **CVPR**!
-- *2026.03*: &nbsp;🎉🎉 One paper related to multimodal generation (FIRM) is now available on arXiv.
+- *2026.03*: &nbsp;📌 One paper related to multimodal generation (FIRM) is now available on arXiv.
+- *2026.02*: &nbsp;📌 One paper related to object detection (PWOOD) is accepted by **CVPR**!
+- *2025.09*: &nbsp;📌 One paper related to multimodal generation (RISEBench) is accepted by **NeurIPS DB Track oral _<mark>(Top 0.35%)</mark>_**！
+- *2025.05*: &nbsp;📌 One paper related to object detection (PointOBB-v3) is accepted by **IJCV**！
+- *2025.02*: &nbsp;📌 One paper related to object detection (Point2RBox-v2) is accepted by **CVPR**！
 
 # 📝 Selected Publications
 
