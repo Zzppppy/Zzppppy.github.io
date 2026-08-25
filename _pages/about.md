@@ -23,6 +23,7 @@ I am a Ph.D. student at **Shanghai Jiao Tong University**, advised by [Prof. Xue
 - **Contact:** [peiyuanzhang@sjtu.edu.cn](mailto:peiyuanzhang@sjtu.edu.cn) · [peiyuanzhangwhu@whu.edu.cn](mailto:peiyuanzhangwhu@whu.edu.cn)
 
 # 🔥 News
+- *2026.08*: &nbsp;📌 One paper related to multimodal generation (FIRM-Video) is now available on arXiv.
 - *2026.03*: &nbsp;📌 One paper related to multimodal generation (FIRM) is now available on arXiv.
 - *2026.02*: &nbsp;📌 One paper related to object detection (PWOOD) is accepted by **CVPR**!
 - *2025.09*: &nbsp;📌 One paper related to multimodal generation (RISEBench) is accepted by **NeurIPS DB Track oral _<mark>(Top 0.35%)</mark>_**！
@@ -46,6 +47,26 @@ I am a Ph.D. student at **Shanghai Jiao Tong University**, advised by [Prof. Xue
 Xiangyu Zhao^, **Peiyuan Zhang^**, Kexian Tang^, Xiaorong Zhu^, Hao Li, Wenhao Chai, Zicheng Zhang, Renqiu Xia, Guangtao Zhai, Junchi Yan, Hua Yang°, Xue Yang°, Haodong Duan°
 
 [📄 Paper](https://arxiv.org/abs/2504.02826) · [💻 Repo](https://github.com/PhoenixZ810/RISEBench)
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Under Review</div>
+<img src='images/firm-video.png' alt="FIRM-Video" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+### FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling
+
+**Peiyuan Zhang**, Xiangyu Zhao, Hongbo Liu, Xiaoxing Hu, Mingxin Liu, Shuran Ma, Yunhang Shen, Jian Hu, Haihan Gao, Haoyu Cao, Xue Yang°
+
+[📄 Paper](https://arxiv.org/abs/2608.21839) · [🌐 Project](https://firm-reward.github.io/)
 
 </div>
 </div>
