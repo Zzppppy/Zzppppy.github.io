@@ -23,12 +23,12 @@ I am a Ph.D. student at **Shanghai Jiao Tong University**, advised by [Prof. Xue
 - **Contact:** [peiyuanzhang@sjtu.edu.cn](mailto:peiyuanzhang@sjtu.edu.cn) · [peiyuanzhangwhu@whu.edu.cn](mailto:peiyuanzhangwhu@whu.edu.cn)
 
 # 🔥 News
-- *2026.08*: &nbsp;📌 Two papers (FIRM-Video, Video-IFBench) is now available on arXiv.
-- *2026.03*: &nbsp;📌 One paper (FIRM) is now available on arXiv.
-- *2026.02*: &nbsp;📌 One paper (PWOOD) is accepted by **CVPR**!
-- *2025.09*: &nbsp;📌 One paper (RISEBench) is accepted by **NeurIPS DB Track oral _<mark>(Top 0.35%)</mark>_**！
-- *2025.05*: &nbsp;📌 One paper (PointOBB-v3) is accepted by **IJCV**！
-- *2025.02*: &nbsp;📌 One paper (Point2RBox-v2) is accepted by **CVPR**！
+- *2026.08*: &nbsp;📌 FIRM-Video and Video-IFBench is now available on arXiv.
+- *2026.03*: &nbsp;📌 FIRM-Reward is now available on arXiv.
+- *2026.02*: &nbsp;📌 PWOOD is accepted by **CVPR**!
+- *2025.09*: &nbsp;📌 RISEBench is accepted by **NeurIPS DB Track oral _<mark>(Top 0.35%)</mark>_**！
+- *2025.05*: &nbsp;📌 PointOBB-v3 is accepted by **IJCV**！
+- *2025.02*: &nbsp;📌 Point2RBox-v2 is accepted by **CVPR**！
 
 # 📝 Selected Publications
 
@@ -37,7 +37,7 @@ I am a Ph.D. student at **Shanghai Jiao Tong University**, advised by [Prof. Xue
 <div class='paper-box-image'>
 <div>
 <div class="badge">Under Review</div>
-<img src='images/video-ifbench.png' alt="FIRM-Video" width="100%">
+<img src='images/firm-video.png' alt="FIRM-Video" width="100%">
 </div>
 </div>
 
@@ -57,7 +57,7 @@ I am a Ph.D. student at **Shanghai Jiao Tong University**, advised by [Prof. Xue
 <div class='paper-box-image'>
 <div>
 <div class="badge">Under Review</div>
-<img src='images/firm-video.png' alt="FIRM-Video" width="100%">
+<img src='images/video-ifbench.png' alt="FIRM-Video" width="100%">
 </div>
 </div>
 
