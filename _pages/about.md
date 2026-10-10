@@ -195,4 +195,4 @@ Yi Yu^, Botao Ren^, **Peiyuan Zhang^**, Mingxin Liu, Junwei Luo, Shaofeng Zhang,
 
 # 🧑‍💻 Internships
 - *2023.12 - 2025.06*, WHU SkyEarth
-- *2025.12 - now*, Tencent YouTu Lab
+- *2025.12 - 2026.10*, Tencent YouTu Lab
