@@ -23,6 +23,7 @@ I am a Ph.D. student at **Shanghai Jiao Tong University**, advised by [Prof. Xue
 - **Contact:** [peiyuanzhang@sjtu.edu.cn](mailto:peiyuanzhang@sjtu.edu.cn) · [peiyuanzhangwhu@whu.edu.cn](mailto:peiyuanzhangwhu@whu.edu.cn)
 
 # 🔥 News
+- *2026.10*: &nbsp;📌 RISEBench++ and Youtu-Parsing-Omni is now available on arXiv.
 - *2026.08*: &nbsp;📌 FIRM-Video and Video-IFBench is now available on arXiv.
 - *2026.03*: &nbsp;📌 FIRM-Reward is now available on arXiv.
 - *2026.02*: &nbsp;📌 PWOOD is accepted by **CVPR**!
@@ -31,6 +32,45 @@ I am a Ph.D. student at **Shanghai Jiao Tong University**, advised by [Prof. Xue
 - *2025.02*: &nbsp;📌 Point2RBox-v2 is accepted by **CVPR**！
 
 # 📝 Selected Publications
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Under Review</div>
+<img src='images/risebench++.png' alt="RISEBench++" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+### Reasoning-Informed Visual Editing
+
+Xue Yang°, **Peiyuan Zhang**, Yilun Zhu, Qihao Yang, Mingxin Liu, Xiangyu Zhao, Ziqian Fan, Zhaokai Wang, Yan Li, Yifan Yang, Xu Yang, Xiaosong Jia, Yue Zhou, Zhihang Zhong, Junchi Yan
+
+[📄 Paper](https://arxiv.org/abs/2610.12343) · [🌐 Project](https://github.com/VisionXLab/RISEBench)
+
+</div>
+</div>
+
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">Tech Report</div>
+<img src='images/youtu-parsing-omni.png' alt="Youtu-Parsing-Omni" width="100%">
+</div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+### Youtu-Parsing-Omni: One Encoder, One Schema, Every Modality
+
+**Youtu-Parsing-Omni Team**
+
+[📄 Paper](https://github.com/TencentCloudADP/youtu-parsing/blob/main/youtu_parsing_omni/paper/Youtu_Parsing_Omni.pdf) · [🌐 Project](https://github.com/TencentCloudADP/youtu-parsing/tree/main/youtu_parsing_omni)
+
+</div>
+</div>
 
 
 <div class='paper-box'>
